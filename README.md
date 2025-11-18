@@ -1,7 +1,7 @@
 # Galaxy-downloader-
 Tool for downloading data from galaxy project 
 
-Before running the G_D.py you should create a environment with the galaxy_dowloader.yml
+Before running the G_D.py you should create a environment with: galaxy_dowloader.yml
 
 ```bash
 
